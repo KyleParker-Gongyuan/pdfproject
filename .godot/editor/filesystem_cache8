@@ -1,0 +1,14 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1732164035
+export_presets.cfg::TextFile::-1::1731825096::0::1::::<><>::
+icon.svg::CompressedTexture2D::1114028571222393695::1730995154::1730995164::1::::<><>::
+logo.png::CompressedTexture2D::7368622197128419259::1731643654::1731643678::1::::<><>::
+node_2d.gd::GDScript::-1::1731844234::0::1::::<>Node2D<>::
+node_2d.tscn::PackedScene::8662023492222927553::1731825100::0::1::::<><>::res://node_2d.gd
+::res://addons/::1730996572
+::res://addons/PdfPlugin/::1731825096
+export_plugin.gd::GDScript::-1::1731825096::0::1::::<>EditorPlugin<>::
+plugin.cfg::TextFile::-1::1731131626::0::1::::<><>::
+::res://addons/PdfPlugin/bin/::1730996709
+::res://addons/PdfPlugin/bin/debug/::1731390077
+::res://addons/PdfPlugin/bin/release/::1731390084
